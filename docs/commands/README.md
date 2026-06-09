@@ -7,6 +7,7 @@ This directory documents command behavior by command. Use `codex-auth <command> 
 | Command | Details |
 |---------|---------|
 | `list` | [docs/commands/list.md](./list.md) |
+| `gui` | [docs/commands/gui.md](./gui.md) |
 | `login` | [docs/commands/login.md](./login.md) |
 | `import` | [docs/commands/import.md](./import.md) |
 | `export` | [docs/commands/export.md](./export.md) |
